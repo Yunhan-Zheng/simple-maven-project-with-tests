@@ -43,9 +43,4 @@ public class SomeTest extends Base {
         run();
     }
 
-    @Test
-    public void test4() {
-        run();
-    }
-
 }
